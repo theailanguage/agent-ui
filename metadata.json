@@ -1,0 +1,5 @@
+{
+  "name": "Gemini ThinkChat",
+  "description": "A React chat application powered by Gemini 2.5/3.0 with support for streaming responses, thinking process visualization, file attachments, and local history.",
+  "requestFramePermissions": []
+}
